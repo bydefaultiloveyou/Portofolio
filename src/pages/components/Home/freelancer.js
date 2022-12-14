@@ -4,7 +4,7 @@ import { BsWhatsapp } from "react-icons/bs";
 const Freelance = () => {
   return (
     <main className=" w-full p-4 h-52 mb-7">
-      <p className=" text-3xl font-bold"> 🥳 Infromation</p>
+      <p className=" text-3xl font-bold"> 🥳 Information</p>
       <p className=" mt-2 opacity-60">
         Saya juga membuka jasa pembuatan website jika temen temen tertarik bisa
         chat saya di

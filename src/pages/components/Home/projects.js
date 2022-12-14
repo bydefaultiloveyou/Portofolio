@@ -23,7 +23,8 @@ const Projects = () => {
           return (
             <Link
               key={i}
-              href="/"
+              target="_blank"
+              href={items.html_url}
               className=" my-2 rounded-md relative w-full bg-gray-50"
             >
               <figure className="p-1 relative">
